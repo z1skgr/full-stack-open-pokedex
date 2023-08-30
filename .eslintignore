@@ -1,3 +1,5 @@
 webpack.config.js
 node_modules/
 dist/
+src/index.jsx/
+full-stack-open-pokedex/server.js
